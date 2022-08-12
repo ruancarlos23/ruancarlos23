@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ruancarlos23
+# sobre mim
+- 👋 Hi, I’m @ruancarlos23     mais conhecido como ruanzinho.frg
 - 👀 I’m interested in  aprender 
 - 🌱 I’m currently learning  javascript
 - 💞️ I’m looking to collaborate on  estudos
